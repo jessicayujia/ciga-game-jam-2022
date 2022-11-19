@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - targetItem
+  - targetItem
+  - targetItem
+  - Fox
+  - Movable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Jumpable
+  - Interactable
+  - Spray
+  - Bat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bat
+    uniqueID: 2272073879
+    locked: 0
+  - name: Player
+    uniqueID: 21831137
+    locked: 0
+  - name: Jumpable
+    uniqueID: 4214801191
+    locked: 0
+  - name: Interactable
+    uniqueID: 2228452519
+    locked: 0
+  - name: Spray
+    uniqueID: 2555947925
+    locked: 0
